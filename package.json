@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GIRISH0909/shopway-amazon.git"
+    "url": "git+https://github.com/GIRISH0909/girishshopway.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GIRISH0909/shopway-amazon/issues"
+    "url": "https://github.com/GIRISH0909/girishshopway/issues"
   },
-  "homepage": "https://github.com/GIRISH0909/shopway-amazon#readme"
+  "homepage": "https://github.com/GIRISH0909/girishshopway#readme"
 }
